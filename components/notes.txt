@@ -1,0 +1,68 @@
+ VIDEO
+ 
+                        <div class="video-divider">
+                            <img src="/images/photos/video1.jpg" alt="image">
+                            <a class="btn-play play-video-popup" href="https://www.youtube.com/watch?v=eS9Qm4AOOBY" target="_blank">
+                                <span class="icon">
+                                    <img src="/images/icons/play.png" alt="image">
+                                </span>
+                            </a>
+                            <span class="video-duration">02 Min Intro Video</span>
+                        </div>
+
+social media
+                        <div class="category-social-content">
+                            <div class="category-items">
+                                <nuxt-link to="/project">Business</nuxt-link>
+                                <nuxt-link to="/project">Marketing</nuxt-link>
+                                <nuxt-link to="/project">Consulting</nuxt-link>
+                            </div>
+                            <div class="social-items">
+                                <a href="https://facebook.com/cybermediastudio"><i class="icofont-facebook"></i></a>
+                                <a href="https://instagram.com/cybermediastudio"><i class="icofont-instagram"></i></a>
+                                <a href="https://youtube.com/@cybermediastudio"><i class="icofont-youtube"></i></a>
+                            </div>
+                        </div>
+
+ black contact piece
+  <div class="footer-top" data-aos="fade-up" data-aos-duration="1000">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="contact-info-content">
+                            <div class="contact-info-item">
+                                <div class="icon">
+                                    <img class="icon-img" src="/images/icons/c1.png" alt="Icon">
+                                </div>
+                                <div class="content">
+                                    <h4>Call Us.</h4>
+                                    <img class="line-icon" src="/images/shape/line-s1.png" alt="Icon">
+                                    <a href="tel:972-757-3014<">972-757-3014</a>
+                                </div>
+                            </div>
+                            <div class="contact-info-item">
+                                <div class="icon">
+                                    <img class="icon-img" src="/images/icons/c2.png" alt="Icon">
+                                </div>
+                                <div class="content">
+                                    <h4>Email.</h4>
+                                    <img class="line-icon" src="/images/shape/line-s1.png" alt="Icon">
+                                    <a href="mailto:susan@cybermediastudio.com">susan@cybermediastudio.com</a>
+                                  
+                                </div>
+                            </div>
+                            <div class="contact-info-item">
+                                <div class="icon">
+                                    <img class="icon-img" src="/images/icons/c3.png" alt="Icon">
+                                </div>
+                                <div class="content">
+                                    <h4>Location.</h4>
+                                    <img class="line-icon" src="/images/shape/line-s1.png" alt="Icon">
+                                    <p>13101 Preston Road <br>Dallas, TX 75240 USA</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>                       
