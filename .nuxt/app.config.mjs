@@ -1,5 +1,5 @@
 
-import { defuFn } from 'C:/Users/RainbowCloud/Documents/_envatoPAID/virtuf/virtuf/node_modules/defu/dist/defu.mjs'
+import { defuFn } from 'C:/Users/RainbowCloud/Documents/Cyber-Media-Studio/CyberMediaStudioVUE/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 

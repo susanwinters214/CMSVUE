@@ -1,1 +1,1 @@
-export { default } from "file:///C:/Users/RainbowCloud/Documents/_envatoPAID/virtuf/virtuf/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
+export { default } from "file:///C:/Users/RainbowCloud/Documents/Cyber-Media-Studio/CyberMediaStudioVUE/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

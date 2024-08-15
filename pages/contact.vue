@@ -41,6 +41,7 @@
             </div>
         </div>
 
+        <!--form is supposed to be here-->
 
 <GoogleMaps />
     
@@ -51,7 +52,9 @@
 <script>
 
 
-
+definePageMeta({
+  title: 'Contact Cyber Media Studio'
+})
 
 
     export default {

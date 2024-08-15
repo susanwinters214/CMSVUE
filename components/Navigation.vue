@@ -1,20 +1,17 @@
 <template>
-    <ul class="main-menu nav justify-content-center">
-        
-      
-         <li>
-            <nuxt-link to="/web-design-services">WEB DESIGN</nuxt-link>
-        </li>
-      
-        <li>
-            <nuxt-link to="/seo-services">SEO</nuxt-link>
-           
-        </li>
-        <li>
-            <nuxt-link to="/about">About</nuxt-link>
-        </li>
-        <li>
-            <nuxt-link to="/contact">Contact</nuxt-link>
-        </li>
-    </ul>
+  <ul class="main-menu nav justify-content-center">
+    <li>
+      <NuxtLink to="/web-design-services">WEB DESIGN</NuxtLink>
+    </li>
+
+    <li>
+      <NuxtLink to="/seo-services">SEO</NuxtLink>
+    </li>
+    <li>
+      <NuxtLink to="/about">About</NuxtLink>
+    </li>
+    <li>
+      <NuxtLink to="/contact">Contact</NuxtLink>
+    </li>
+  </ul>
 </template>
